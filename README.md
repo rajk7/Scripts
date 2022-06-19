@@ -7,5 +7,27 @@ Scriptable Object
 
 >**Note** : This is an important message.
 
+> <strong>Note:</strong> To Make Note
+
 >**Warning** : This is an worning message.
+
+- [Badges](#badges)
+  - <details> <summary>List of badges</summary>
+    a
+    
+    a
+    c
+    c
+  </details>
+
+```
+copy all text
+
+its cool
+
+```
+# Test
+- [Code Sample](#code-sample)
+
+- [Test](#test)
 
