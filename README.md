@@ -1,6 +1,6 @@
 # Code Sample
-* Plugin/ Packages
-com.unity.vectorgraphics (SVG Images in unity)
+# Plugin/ Packages
+- com.unity.vectorgraphics (SVG Images in unity)
 
 
 Scriptable Object
