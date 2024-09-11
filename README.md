@@ -6,7 +6,7 @@
 ![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/SRP.jpg)
 ![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/OCP_Wrong.jpg)
 ![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/OCP_Right.jpg)
-![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/LSP.jpg)
+![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/LSP.png)
 ![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/ISP_Wrong.jpg)
 ![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/ISP_Right.jpg)
 ![alt text](https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/DIP.jpg)
