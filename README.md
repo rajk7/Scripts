@@ -2,6 +2,8 @@
 # Plugin/ Packages
 - com.unity.vectorgraphics (SVG Images in unity)
 # SOLID Principle
+
+<!-- //image -->
 https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/SRP.jpg
 https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/OCP_Wrong.jpg
 https://github.com/rajk7/Scripts/blob/main/SOLID%20Principle/Image/OCP_Right.jpg
